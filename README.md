@@ -71,7 +71,7 @@ The script categorizes files based on their file extensions. Here are the suppor
 ## Usage
 
 1. Create the necessary subfolders (videos, images, documents, etc) within your "Downloads" directory.
-2. Copy the Python script (`organize_files.py`) to your desired location.
+2. Copy the Python script (`sort.py`) to your desired location.
 3. Run the script to organize your files.
 
 **Note:** Make sure to modify the script's paths if your folder structure differs from the default setup.
@@ -82,10 +82,6 @@ The script uses the `magic` library to identify file types and categorizes them 
 
 ## Author
 
-- Your Name
-- Your Email
-- Your GitHub Profile
+- Szabioe
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
